@@ -61,15 +61,6 @@ Created & curated **electronics/robotics content** for global community.
 - Finalist — **AtomQuest (IIT Bombay, 2024)**  
 - **Intinta Innovator (TSIC 2022)** | **Young Inventor (Techfest IIT Bombay 2020)**  
 
----
-
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Venkata-Sai-Vishwanath-robo&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
 
 ### 🔗 Connect with Me  
 
