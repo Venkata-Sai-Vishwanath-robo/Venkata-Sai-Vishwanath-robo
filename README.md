@@ -1,13 +1,15 @@
 <h1 align="center">
   <img src="https://i.gifer.com/XOsX.gif" alt="Matrix Rain" width="60"/>
-  I'm Venkata Sai Vishwanath
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00f260&center=true&vCenter=true&width=650&lines=I'm+Venkata+Sai+Vishwanath" alt="Typing SVG">
+  </a>
   <img src="https://i.gifer.com/XOsX.gif" alt="Matrix Rain" width="60"/>
 </h1>
-<h3 align="center">Developer | Researcher | Innovator | Open-Source Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venkata-Sai-Vishwanath-robo&label=Profile%20Visits&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF4B2B&center=true&vCenter=true&width=900&lines=Developer+|+Researcher+|+Innovator+|+Open-Source+Enthusiast" alt="Typing Roles">
+</h3>
+
 
 ---
 
@@ -34,12 +36,16 @@
 
 <img src="https://i.gifer.com/XDZT.gif" width="12" height="12"/> **Linux Foundation Mentee @ Linux Foundation Energy** — *Mar 2025 - Jun 2025*  
 Upgraded **Vert.x framework**, refactored build scripts, stabilized **APIS repositories** for peer-to-peer microgrid trading.  
+
 <img src="https://i.gifer.com/XDZT.gif" width="12" height="12"/> **Google Summer of Code @ MIT App Inventor** — *May 2024 - Sep 2024*  
 Improved **website accessibility**, added **keyboard navigation & shortcuts**, making the platform **WCAG-compliant**.  
+
 <img src="https://i.gifer.com/XDZT.gif" width="12" height="12"/> **I-Hub Divya Sampark, IIT Roorkee (Chanakya UG Fellow)** — *Jan 2024 - Jul 2024*  
 Built **IoT-based crowd prediction device**, enabling real-time density estimation via mobile apps.  
+
 <img src="https://i.gifer.com/XDZT.gif" width="12" height="12"/> **SWARM Robotics (Research Head)** — *Jan 2023 - Jan 2025*  
 Led **robotics projects**, competitions, and outreach workshops.  
+
 <img src="https://i.gifer.com/XDZT.gif" width="12" height="12"/> **Think Robotics (Tech Content Developer)** — *Jan 2024 - Sept 2024*  
 Created & curated **electronics/robotics content** for global community.  
 
