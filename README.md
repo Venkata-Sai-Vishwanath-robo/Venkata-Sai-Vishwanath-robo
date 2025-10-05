@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Venkata Sai Vishwanath</h1>
+<h1 align="center">
+  <img src="https://i.gifer.com/XOsX.gif" alt="Matrix Rain" width="60"/>
+  I'm Venkata Sai Vishwanath
+  <img src="https://i.gifer.com/XOsX.gif" alt="Matrix Rain" width="60"/>
+</h1>
 <h3 align="center">🚀 Developer | Researcher | Innovator | Open-Source Enthusiast</h3>
 
 <p align="center">
